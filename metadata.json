@@ -1,0 +1,6 @@
+{
+  "name": "ЛАБА — Закон Архимеда",
+  "description": "Понятный разбор закона Архимеда с тремя интерактивными опытами, точными формулами и физическим помощником.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
